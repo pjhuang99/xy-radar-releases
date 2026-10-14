@@ -11,9 +11,11 @@
 
 | 你的电脑 | 下哪个 |
 | --- | --- |
-| Mac（M1 / M2 / M3 / M4） | `信源雷达-mac-arm64-….zip` |
-| Mac（Intel Core） | `信源雷达-mac-x86_64-….zip` |
-| Windows | `信源雷达-win64-….zip` |
+| Mac（M1 / M2 / M3 / M4） | `xy-radar-mac-arm64-….zip` |
+| Mac（Intel Core） | `xy-radar-mac-x86_64-….zip` |
+| Windows | `xy-radar-win64-….zip` |
+
+（文件名是英文的，解压出来的文件夹叫「信源雷达」，里面就是程序。）
 
 不确定 Mac 是哪种芯片：左上角  →「关于本机」→ 看「芯片」。
 写着 `Apple M…` 就是 arm64，写着 `Intel Core` 就是 x86_64。
